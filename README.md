@@ -1,3 +1,3 @@
 # html-video
 
-https://practice-front-end-dev.github.io/html-videos/
+https://practice-front-end-dev.github.io/004-html-videos/

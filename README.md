@@ -1,3 +1,3 @@
 # html-video
 
-https://practice-full-stack.github.io/html-videos/
+https://practice-front-end.github.io/html-videos/
